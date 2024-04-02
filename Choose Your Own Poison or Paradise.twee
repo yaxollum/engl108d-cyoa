@@ -1,0 +1,780 @@
+:: StoryTitle
+Choose Your Own Poison or Paradise
+
+
+:: StoryData
+{
+  "ifid": "676F0732-94E0-4104-8E33-BFCDBCFD7472",
+  "format": "Harlowe",
+  "format-version": "3.3.8",
+  "start": "AskForName",
+  "zoom": 0.6
+}
+
+
+:: \ kat computer {"position":"2100,225","size":"100,100"}
+"So this is a laptop, well it's your laptop so I don't know the password but hopefully you remember," she pushes it gently towards you and makes a gesture.
+
+You open the laptop and your fingers begin to dance over the black squares with letters on them. The picture on the laptop changes and then Katherine takes it away from you.
+
+"Okay so to skip the boring parts, I just opened Google for you. Here, you can type things, as in click the buttons on your keyboard, and once you hit the enter key right here, Google will show you a bunch of text. The blue looking text is actually a link and when you click on it, you can go to its website. Think of each website as like a chapter or even the entire book. With Google, you can seach up anything and everything really easily. If you want to learn something, you can also go to YouTube," Katherine clicks the + symbol at the top and a new Google opens, "and basically do the same thing but here you have videos instead of just text like on Google. I hope that wasn't too confusing. Good luck! I have to head to class first but I'll check up on your tomorrow!"
+
+Okay, that was a lot. Since YouTube is open, you see videos that have pictures that look similar to what you saw on the screen when you woke up. //A Game?// You think as you recall what your friends said earlier. You try to remember how to click on things and eventually you enter one of the videos. 
+
+You watch people playing the game you were playing with your friends. They are monologuing? It seems like they are talking to other people through the text that is popping up on the screen. // Chat? // You hear them address the other person (people?) in the conversation as such. // I guess their name is Chat //.
+
+On the side, you see more and more videos. Katherine told you to explore so you decide to choose a new video each time the current one ends...
+
+And then the sun rises. [[ (next part) | kat eyebags2]]
+
+
+:: \ kat eyebags2 {"position":"2100,350","size":"100,100"}
+"What's up! How did it go. Did you remember anything?" Katherine pauses for a second, "Wait did you sleep? Your eyebags are out of this world."
+
+You explain how interesting and confusing it was to try and navigate your computer. How you saw the same game on YouTube, and of course how you unfortunately didn't get your memories back.
+
+"Aw that's a shame, what do you wanna do today?" She asks.
+
+Do you ask to [[go out with your friends |kat friendmall]] or [[continue the game you woke up to yesterday |kat friendgames]].
+
+
+:: \ kat phone {"position":"1975,225","size":"100,100"}
+"Okay let's open your phone then. Thankfully you have Face ID." She breathes a sigh of relief.
+
+Almost on instinct, you swipe to the next page and click on a small square that has a coloured music note.
+
+"Oh so you remember TikTok? You use it everyday so I was thinking maybe by watching a few videos, your memory might return eventually. You know, some sort of trigger. Try it out and let me know how it goes!"
+
+You [[start watching videos | kat scrolling]].
+
+
+<img src="https://media.licdn.com/dms/image/D4E22AQHl0w2OVdIM2A/feedshare-shrink_800/0/1683704811587?e=2147483647&v=beta&t=TxY7Zox8jdFszt6NISQQs3EDo-NNkQFtQNMl9OYTn38" alt="">
+
+
+:: \ kat scrolling {"position":"1975,350","size":"100,100"}
+You see a video of people dancing to music, //swipe.//
+You see a video of two cats playing with each other, //swipe.//
+You see a video of someone putting on makeup and talking, //swipe.//
+You see a video of people eating noodles, //swipe.//
+You see a video of people cooking food, //swipe.//
+You see a video of people teaching you how to speak Chinese, //swipe.//
+You see a video of somebody doing a basketball trickshot, //swipe.//
+You see a video of people playing this game called Wordle, //swipe.//
+You see a video of people recommending colognes, //swipe.//
+You see a video of people trying on clothes, //swipe.//
+You see a video of people playing volleyball, //swipe.//
+You see a video of an otter, //swipe.//
+You see a video of the thing your friends were playing earlier, //swipe.//
+You see a video of people playing volleyball, //swipe.//
+.
+.
+.
+.
+.
+.
+.
+.
+All of a sudden, you see 3:14am in the top left corner. //How did time past by so fast?//
+
+Do you [[keep scrolling | kat scrolling2]] or [[go to sleep |kat sleep]]?
+<img src="https://media.npr.org/assets/img/2023/03/15/gettyimages-1470268269-bcb3ec2433d093a15dd36e4b3f5b3468fb34f9e4.jpg">
+
+
+:: \ kat scrolling2 {"position":"1975,475","size":"100,100"}
+You continue down the rabbit hole of the internet and you can almost feel the dopamine hit with every new video.
+
+Every new video is a new person, a new story, a whole new world. People from all around the world, different backgrounds, different interests. You can practically find anything and everything at the tip of your fingers through even just a quick search on TikTok.
+
+//Restaurants nearby, best skincare products, 2023 movie reccomendations...// The list truly never ends.
+
+But your phone battery does. So you head to sleep with your eyelids falling as the sun begins to rise... now it's time to [[wake up |kat eyebags]].
+
+
+:: AI Art {"position":"500,375","size":"100,100"}
+AI art is like teaching a computer to be an artist. We show a computer hundreds of thousands of artworks and tell it to create its own. This definitely helps the accessibility side of it; it allows anyone to create art. However, this comes with a downside - AI art loses a lot of its meaning and credibility because it copies a lot of other artists' art. It has the power to instantly make an image, but part of the meaning in art is the time that was put into it. 
+
+Here's an example of an AI mistake:
+<img src=https://miro.medium.com/v2/resize:fit:800/1*2O3_u0ZXs3kqsdLd9Mozvw.png>
+
+Here's an example of a nice-looking AI picture:
+<img src=https://news.artnet.com/app/news-upload/2023/02/Julian-van-Dieken_A-Girl-With-Glowing-Earrings-.png>
+
+Go back:
+- [[Generative AI]]
+
+
+:: AI for Good {"position":"650,175","size":"100,100"}
+Hey $name, AI can be used to do a lot of good too. I'll tell you about some applications of AI that make it a useful tool for us. First, there is the vast potential for AI to control robots to do menial, dangerous labour, such as putting out wildfires. Whatever would put a human in danger, it's obviously preferable to put a robot in place. 
+
+There's also applications in healthcare, which I've actually personally worked on before. I worked on using AI to help radiologists detect and segment tumours in different organs, such as liver and prostate. This can help patients get the treatment they need, in the exact location. 
+
+Other topics:
+- [[ChatGPT]] 
+- [[Self-Driving Cars]] 
+- [[Dangers of AI]] 
+- [[Generative AI]]
+
+
+:: AskForName {"position":"900,950","size":"100,100"}
+(set: $name to (prompt: "What is your name?", ""))
+(if: $name is "")[Please [[reload the page|AskForName]] and enter a valid name.]
+(else:)[Hi $name!
+
+[[Click here to begin your adventure.|OpeningScene]]]
+
+
+:: Benefits of ChatGPT {"position":"150,400","size":"100,100"}
+On the bright side, $name, ChatGPT does have its perks. For example, if you want to use ChatGPT for personal use like me, I just used ChatGPT to help plan my family's upcoming trip to Lisbon! It's actually very useful for compiling all the information from a bunch of different travel websites. It helped us figure out a customized itinerary for the place we are staying in and for the amount of time that we are going to be there for. 
+
+Go back:
+- [[ChatGPT]] 
+
+Other ChatGPT topics:
+- [[Poetry Example]] 
+- [[Negatives of ChatGPT]]
+
+
+:: BuyKevinsPlantFertilizerToday.com {"position":"1475,425","size":"100,100"}
+You click into BuyKevinsPlantFertilizerToday.com, and this is what you see: 
+Welcome to Kevin’s Fertilizer Shop! As a producer of plant fertilizer for over 2400 years, we have perfected the formula of plant fertilizer. Here are the special ingredients that will help your plant grow stronger and faster than ever! 
+Phosphorus 
+Sulfuric acid 
+Ketchup flavored chips
+Popcorn
+Tim Hortons coffee
+Our secret ingredient! 
+Get your plant fertilizer for only $25,499 today! Order now! 
+
+After looking at this information, do you believe that this website is trustable and the information on this website is reliable? 
+
+[[Yes, Kevin's Fertilizer Shop is reliable|Yes, Kevin’s Fertilizer Shop is reliable]]
+
+[[No, visit Plants.com instead|Plants.com]]
+
+
+:: ChatGPT {"position":"175,200","size":"100,100"}
+$name, you'll get your mind blown by ChatGPT. I'm not sure what you think the limits of technology are, but just know that this will go way past it. ChatGPT is something called a "Large Language Model" that generates perfect English text and can make interesting conversation. It can even teach you different things! Here, let me show you a little snippet. 
+
+<img src=https://cdn.openai.com/chatgpt/consumer_desktop_light.svg>
+
+Would you like to explore other topics of AI or do you want to go a bit deeper into ChatGPT?
+
+Other topics: 
+- [[Self-Driving Cars]] 
+- [[AI for Good]] 
+- [[Dangers of AI]] 
+- [[Generative AI]] 
+Deeper dive: 
+- [[Poetry Example]]
+- [[Benefits of ChatGPT]]
+- [[Negatives of ChatGPT]]
+
+
+:: Compare yourself to them, and become jealous {"position":"1100,325","size":"100,100"}
+Don’t feel this way! 
+When scrolling through social media platforms, you should never look at other people’s highlights and think to yourself that “I wish I was like them.” Usually, people only share the positive moments of their lives on Instagram, so social media typically paints an over glorified image of people. When you browse through social media, it can often make you feel like your life is not as full of happy moments as other people’s, but take into consideration that people only share the happy moments of their lives on social media, so assure yourself to not feel that way. 
+
+[[Like the video and move on|Like the video and move on]]
+
+
+:: Dangers of AI {"position":"850,200","size":"100,100"}
+$name, AI has a lot of downsides that come with its massive potential. For one, it can restrict privacy. Who knows if an AI is using your data to train and learn? 
+
+Secondly, it can also be biased based off of what it has learned. For example, if the AI has learned only communist propaganda, its answers and actions will be very biased towards that. 
+
+Next, AI can be very hard to control sometimes. We don't know how it generates output, we just know how to make the AI. Some people are afraid that AI will wipe out the human race but I think it's a little too early to tell. It is definitely uneasy to know that AI is hard to control though.
+
+Lastly, since AI can do so many things instantly now, it is putting a lot of honest, hard-working people out of jobs. For example, call centers are being replaced with AI Chatbots that can "talk" to you about a certain business or product.
+
+Other topics:
+- [[ChatGPT]] 
+- [[Self-Driving Cars]] 
+- [[AI for Good]] 
+- [[Generative AI]]
+
+
+:: Generative AI {"position":"500,200","size":"100,100"}
+$name, take a look at Generative AI. Tools like Sora and DALL-E are developed by a company called OpenAI, and they can do some unheard-of things. Sora creates realistic videos from text prompts, and DALL-E creates realistic images from text prompts. For both of these tools however, there are definitely limitations, and it can't create perfect images or videos...yet.
+
+For DALL-E, it can imitate paintings, drawings, any type of art, and its different styles, as long as it can be captured in an image.
+
+
+Sora can even help filmmakers create films! Can you believe it? Here's the hyperlink to Sora: <a href=https://openai.com/sora>Link</a>
+
+Do you want to learn more about Generative AI?
+- [[AI Art]]
+
+Other topics:
+- [[ChatGPT]] 
+- [[Self-Driving Cars]] 
+- [[AI for Good]] 
+- [[Dangers of AI]]
+
+
+:: Go to sleep {"position":"1125,575","size":"100,100"}
+<img src="https://i.imgur.com/K6y13cz.png">
+
+You put your phone down, and drift off to sleep. You have a happy dream knowing that you’ve made the right decision. 
+
+The next morning you wake up, you go to work!
+
+[[You're at work|You're at work]]
+
+
+:: Keep scrolling {"position":"900,575","size":"100,100"}
+You have just experienced addiction. Addiction is common in the world of digital lives, and it is very dangerous. It’s important to learn about digital abstinence - knowing when to stop. 
+
+You would have learned a lot about addiction if you had chosen [[Katherine|kat first choice]] as your guide at the start!
+
+
+:: Kevin First Scene {"position":"1150,50","size":"100,100"}
+Hello there!
+I’m glad that you are exploring the world of digital lives. This is how we live our lives now - everyone is consumed by digital media, and people are constantly on their phones. For some, digital media may seem like a wonderland - where the sun shines, the flowers bloom, and the plants sing. Yet, BE WARNED! The digital world is not always a perfect place. 
+
+Let’s learn about some of the things you should be careful about while exploring the world of digital media. First, pick a setting. Choose your adventure below: 
+
+[[You're at home]]
+
+[[You're at work]]
+
+
+:: Like the video and move on {"position":"950,450","size":"100,100"}
+Kudos! You’ve made the right decision. Social media can often make you feel that “I wish I was them”, but it’s good that you understand why you should not feel this way. 
+
+So, you keep scrolling, and scrolling, and scrolling, watching the time pass by in a heartbeat. It’s 3AM, and you are still lying on the sofa and looking at Instagram posts. You are tired, and you want to sleep, but you also want to keep scrolling because every post you see gives you the adrenaline to keep scrolling. What should you do in this situation? 
+
+[[Keep scrolling|Keep scrolling]]
+
+[[Go to sleep|Go to sleep]]
+
+
+:: Negatives of ChatGPT {"position":"25,500","size":"100,100"}
+$name, there are a bunch of negatives around ChatGPT. Firstly, it can make mistakes. A lot of them. If you ever intend to use it for your personal use, don't treat everything as the truth. It's like using the Internet, which, well, you've probably forgot about too. In any case, please listen to me, do not trust everything you see in the digital world. That includes ChatGPT.
+
+Secondly, a lot of students around the world, including here at the University of Waterloo, definitely use ChatGPT to cheat their homework and overall just learn less.
+
+Go back:
+- [[ChatGPT]] 
+
+Other ChatGPT topics:
+- [[Poetry Example]] 
+- [[Benefits of ChatGPT]]
+
+
+:: OpeningScene {"position":"1100,950","size":"100,100"}
+You wake up and you find yourself lying on a cold, wooden table. You look around you, and you see a bunch of weird gadgets.
+
+On the table, there is a plastic rectangular board that looks like a typewriter, except it is flat and has a thin wire connected to the back of it.
+
+<img src="https://peterye.ca/eng_imgs/keyboard.jpg">
+
+There is also a smaller gadget about the same size as your hand that has two buttons on each side and a small rubber wheel in the middle.
+
+<img src="https://peterye.ca/eng_imgs/mouse.jpg">
+
+In front of you, there is a large rectangular device that somehow has the ability to display all kinds of moving images.
+
+<img src="https://peterye.ca/eng_imgs/monitor.jpg">
+
+You have never seen these gadgets before, so you wonder what they are used for.
+
+Suddenly, your friend Trevor walks over to your table and dumps an entire bottle of water on your head. You’ve known Trevor for several years now, and he has always been a very mature individual, so this is very uncharacteristic of him.
+
+You yell, “What on earth was that for?”
+
+Trevor replies, “You’ve literally been sleeping on this table for 8 hours! It’s time to get to class now.”
+
+“Where am I?”
+
+Trevor looks confused and says, “Have you lost your mind? We’re in the V1 esports lounge.”
+
+“What does ‘esports’ mean?”
+
+“Dude, stop joking around, we gotta get to class now.”
+
+“No, I’m serious, Trevor! Where am I? How did I get here? What are these weird gadgets in front of me?”
+
+Four of your other friends — Katherine, Kevin, Peter, and Seyon — walk up to you, and Trevor tries to explain your situation to them: “Guys, $name and I were playing a round of Valorant, and $name suddenly just collapsed and fell asleep for 8 hours. Now they’ve woken up, but they don’t even understand what an esport is. I think $name has lost all of their technology-related memories.”
+
+Your friends all gasp.
+
+Katherine exclaims, “What are we going to do?!”
+
+Kevin says, “We need to help $name restore their memories!”
+
+Peter says, “Yeah, you can’t even survive in the 21st century without using digital technology!”
+
+Seyon suggests, “Hmm… maybe one of us can become $name’s guide and reintroduce $name to the world of digital media.”
+
+“That’s a great idea,” everyone agrees.
+
+Now it’s time for you to make a choice. Which friend will you follow?
+* [[Katherine|kat first choice]]
+* [[Kevin|Kevin First Scene]]
+* [[Peter|PeterStart]]
+* [[Seyon|SeyonStart]] 
+* [[Trevor|TrevorAI]]
+
+
+:: Option 1 (sarcastic response) {"position":"2225,975","size":"100,100"}
+"Only about how bad you were at Valorant," you smirk.
+
+"Oh, is that how it is?" Katherine starts rolling up her sleeves, "Let's play then".
+
+You open the login screen and the rest is history.
+
+The End.
+
+
+:: Option 2 (normal response) {"position":"2350,975","size":"100,100"}
+"Not really," you sigh just thinking about it.
+
+"It's alright, we can try other things and I'll answer any of your questions later. Let's get ready and go to our lectures first though."
+
+You return the keyboard and mouse to the front desk, head back to freshen up, and walk down Ring Road to get to your first class. At least you didn't forget how to solve integrals and bring a matrix to RREF.
+
+The End.
+
+
+:: PeterGoToBed {"position":"1525,1325","size":"100,100"}
+When you wake up, it’s 7 AM and you look out your dew-covered window to see the beautiful sunrise. You are so glad that you decided to go to bed early last night.
+
+<img src="https://peterye.ca/eng_imgs/dew.jpg">
+
+You’re planning to study with your friends at the library today since you have an exam coming up soon.  
+
+You open your laptop, and a new MrBeast video pops up. It doesn’t feel right to start your morning with something unproductive, but you think, “Hey, I’ve woken up early today, so I’ll watch just one video.” So you decide to click on the video, promising to yourself that this is going to be the only video that you will watch.
+
+However, at the end of the video, YouTube recommends another MrBeast video that is too intriguing for you to resist: “Face Your Biggest Fear To Win $800,000.” You decide to click on this video, promising to yourself that this will actually be your last MrBeast video for the day. But of course, that doesn’t happen, and before you know it, 4 hours have gone by.
+
+At this point, you feel like you have no more energy left to study, so you message your friends on Discord telling them that you won’t be able to make it to the study session.
+
+Also, [[you make another poor decision that night.|PeterYoutube2]]
+
+
+:: PeterStart {"position":"1325,1025","size":"100,100"}
+You and Peter walk to your apartment and enter your room. Parts of your room look familiar to you, but there are also some peculiar gadgets that look similar to the ones that you saw at the esports lounge.
+
+Peter asks, “So, you must have forgotten what all these devices are, right?”
+
+He then re-introduces you to each piece of technology in your room — a laptop, a smartphone, a desktop PC, a monitor, a mouse, and a keyboard.
+
+You open your laptop, and Peter teaches you some basic computer skills. He shows you how you can message him on Discord, watch videos on YouTube, and browse social media.
+
+“What’s social media?” you ask.
+
+Peter replies, “Social media is like a virtual community where you can interact with people and share things with others.”
+
+“Wow, that’s really interesting. Can you show me how it works?”
+
+“Hmm… Maybe we can start an AMA on Reddit for you. I’m sure people are going to be very fascinated by your current situation.”
+
+“What’s Reddit? What’s an AMA?”
+
+Peter explains, “Reddit is a social media platform where people with similar interests can gather in virtual spaces called subreddits. For example, people who like math can go to r/math, people who like computer science can visit r/compsci, and people who like funny things can go to r/funny. AMA stands for ‘Ask Me Anything,’ which means you can kind of have a text interview with online strangers.”
+
+You ask, “Why would anyone want to interview me?”
+
+“You've literally lost all your tech-related memories!!! Who wouldn’t be curious about you?”
+
+“That’s true.”
+
+With that, you make your first ever social media post titled “I fell asleep yesterday and lost all my technology-related memories. Ask me anything!”
+
+<img src="https://peterye.ca/eng_imgs/reddit_screenshot_web.png">
+
+Within a few hours, your post receives hundreds of comments. Some of the comments ask interesting questions like
+* “How did your friends react to this?”
+* “What do you do for work? Can you still do your job now?”
+* “Dude why would you play Val? 🤮🤮🤮”
+With Peter’s help, you spend the next hour reading the comments and answering questions. Every time you see a comment, you get a rush of excitement from the thought that some random stranger on the Internet finds you interesting.
+
+As you conclude your AMA session, you think, “Wow, social media is amazing! I can just interact with people at home, and I won’t ever have to go outside and talk to people again…”
+
+The next day, you [[continue you digital adventure on YouTube|PeterYoutube1]].
+
+
+:: PeterTouchGrass {"position":"1575,1500","size":"100,100"}
+You send a message to Peter on Discord: “Hey Peter, I think I’ve been spending too much time consuming digital media these days. Do you wanna go and explore a random park this afternoon?”
+
+Peter replies, “Sure, I’d love to.”
+
+When you arrive at the park with Peter, you are amazed by how relaxing it is to take a break from your digital devices and spend some quality time with a friend. In the middle of the park, there is a giant lake that is surrounded by trees and grass.
+
+<img src="https://peterye.ca/eng_imgs/lake.jpg">
+
+You and Peter both reach down to touch some grass and feel its unique dry texture.
+
+<img src="https://peterye.ca/eng_imgs/touching_grass.jpg">
+
+“We haven’t touched grass in a while, eh?” says Peter.
+
+“Yep. I’ve been feeling really lonely for the past few days. I think it’s because of all the digital media that I’ve been consuming. It feels like I’m connecting with other people online, but at the same time, it feels like I’m completely alone.”
+
+Peter nods understandingly and says, “Yeah, digital communication is useful and convenient, but it can't replace in-person communication. This is why I like the idea of digital abstinence: we can still use digital technology, but we need to know when it’s time to take a break from it.”
+
+Suddenly, your conversation with Peter gets interrupted by the sound of a goose honking behind you. You turn around to see two geese walking side by side on the grass, as if they were talking to each other.
+
+You smile and say, “Maybe there's something that we can learn from those geese.”
+
+<img src="https://peterye.ca/eng_imgs/geese.jpg">
+
+
+:: PeterYoutube1 {"position":"1350,1175","size":"100,100"}
+On YouTube's home page, you see a collection of popular videos from various content creators. One of the videos catches your eye: “Stop This Train, Win a Lamborghini” by MrBeast. 
+
+<img src="https://peterye.ca/eng_imgs/lambo.png">
+
+You click on the video, and you are instantly captivated by it. You find it inconceivable that such incredible action can be captured with a camera and delivered right to the laptop display in front of you. You scroll down to the comments section of the video, and you are fascinated by all the funny jokes and interesting replies that people came up with
+
+After finishing that video, you click on MrBeast’s channel to discover that there are hundreds of other videos that are just as intriguing as the one that you just watched.You watch another 10 videos, and you’re surprised to see that it’s already midnight.
+
+What do you do?
+* [[Continue watching MrBeast videos|PeterYoutube2]]
+* [[Go to bed|PeterGoToBed]]
+
+
+:: PeterYoutube2 {"position":"1350,1325","size":"100,100"}
+That night, you watch another 15 MrBeast videos and collapse on your desk at 4 AM. You find the people in the videos interesting, but you feel that they are very distant from you, and you can’t relate to them. It is almost as if they are living in a completely different universe.
+
+After waking up at noon the next day, you don’t eat anything except for a granola bar. Then you continue watching MrBeast videos until you collapse again at 4 AM.
+
+<img src="https://peterye.ca/eng_imgs/collapsed_on_desk.jpg">
+
+You repeat this cycle for another 2 days. You feel like your life is completely meaningless, and the only thing that is keeping you alive is MrBeast. You feel miserable and lonely since you haven’t seen a physical human being for days. Every night, you spend roughly an hour crying yourself to sleep.
+
+On the fourth day, [[something incredible happens to you|PeterYoutube3]].
+
+
+:: PeterYoutube3 {"position":"1375,1500","size":"100,100"}
+You stumble upon a MrBeast video titled “I spent 50 hours in solitary confinement.” 
+
+<img src="https://peterye.ca/eng_imgs/solitary_confinement.jpg">
+
+Suddenly, the realization hits you: this entire time, you have been voluntarily locking yourself up in solitary confinement in your own room.
+
+[[You decide that it’s time to change something.|PeterTouchGrass]]
+
+
+:: Plants.com {"position":"1275,500","size":"100,100"}
+<img src="https://i.imgur.com/TMvC4WQ.png">
+
+Congrats on making the right decisions! When using the internet, it’s important to recognize reliable and unreliable sources of information. You have successfully realized that the domain name BuyKevinsPlantFertilizerToday.com clearly sounds like an advertisement, so the information might be biased towards what they are trying to sell. You visit Plants.com and successfully researched the ingredients to make the perfect plant fertilizer - nitrogen, potassium, and phosphorus. 
+After your work, you go home proudly knowing that your first day at work is as successful as it could be. 
+[[Go home|You're at home]]
+
+
+:: Poetry Example {"position":"325,550","size":"100,100"}
+Look, $name, you can even create poems with ChatGPT!! Albeit, they aren't great or amazing, but it's still interesting to know that ChatGPT can create some poems. However, bear in mind, these poems are not original, and they are just based off of poems that ChatGPT has seen before.
+
+<img src=https://i0.wp.com/viewlesswings.com/wp-content/uploads/2022/12/Screenshot_20221212-104233.png?fit=1080%2C1614&ssl=1>
+
+Go back: 
+- [[ChatGPT]] 
+
+Other ChatGPT topics:
+- [[Negatives of ChatGPT]] 
+- [[Benefits of ChatGPT]]
+
+
+:: Self-Driving Cars {"position":"325,200","size":"100,100"}
+$name, you remember cars right? Please tell me you know what a car is. Okay, good. Anyway, cars are pretty cool on their own, but what if I told you that cars can drive themselves? There's so many companies out there now creating self-driving cars, but the most famous one is Tesla. Have you heard of a guy named Elon Musk? Yeah, he made Tesla. Anyway, let me show you an example of a self-driving car. 
+
+<img src=https://hips.hearstapps.com/hmg-prod/images/h1a2230-edit-1616770000.jpg>
+
+Other topics:
+- [[ChatGPT]] 
+- [[AI for Good]] 
+- [[Dangers of AI]] 
+- [[Generative AI]]
+
+
+:: SeyonAlanTuring\  {"position":"125,975","size":"100,100"}
+“Alan Turing, huh? What do you know about him?”
+
+You boast that you know all about Alan Turing, mentioning the Turing machine, his efforts towards cracking the enigma code, and the Turing test.
+
+“That’s it?”
+
+Surprised with this response, you look at the page titled “Alan Turing Wikipedia page” and are shocked by the amount of text you see. 
+
+<center>
+	<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Alan_Turing_%281912-1954%29_in_1936_at_Princeton_University.jpg/640px-Alan_Turing_%281912-1954%29_in_1936_at_Princeton_University.jpg height="250px" width="250px">
+</center>
+
+“Apparently, he is called the ‘father of artificial intelligence’. In honor of his legacy, his face was even on the £50 British note.”
+
+You are quite taken aback by this information. From books and classes, you learned a lot about Alan Turing, but from this resource called the “internet”, you’re able to access a seemingly infinite pool of knowledge.
+
+“This Alan Turing guy seems quite interesting. Sad that he lived such a short life. Imagine what he could’ve accomplished and where humanity would be if we had a few more years of his ideas? It’s said that the Turing machine was the first shift from the old media to the new media because of its ability to record. Personally, I think it’s no coincidence that Turing machines look similar to film projectors, but maybe that’s just me. All this thinking has made me hungry. Want to get something at the SLC?”
+
+<center>
+[[Yes |SeyonSLCYes]]
+[[No |SeyonSLCNo]]
+</center>
+
+
+:: SeyonAnnaAkhmatova {"position":"400,975","size":"100,100"}
+“Ah, Anna Akhmatova. Yes, a great poet.”
+
+You then approach the keyboard to see the letters of the English alphabet. Then, Seyon begins pressing some keys and generating the text “Anna Akhmatova” on screen. He then uses some clicking device, which is called a mouse, to look at something called “Wikipedia for Anna Akhmatova.”
+
+<center>
+<img src=https://upload.wikimedia.org/wikipedia/commons/e/e6/Kuzma_petrov-vodkin%2C_ritratto_di_anna_akhmatova%2C_1922.JPG height="250px" width="250px">
+</center>
+
+The entire screen then becomes filled with text. Reading it, you find yourself in shock–her entire life is documented on this “Wikipedia for Anna Akhmatova” article.
+
+“Cool, isn’t it? Wikipedia is essentially a source of knowledge on what we call the internet. Essentially, the internet is a global network consisting of information. In a way, it connects humanity, but in others, it divides them.”
+
+Curious, you take control of the mouse and click the word “Russia”, which brings you to the “Russia Wikipedia” article. Moving down the page, you find information about the current conflicts.
+
+“See? This is what I mean by being connected. The internet is like a path that you can follow to bring you from one place to a completely different one. This also showcases hypertext, which is essentially text with links to other texts. Anyways, you haven’t eaten yet, have you? Do you want to go to the SLC?”
+
+<center>
+[[Yes |SeyonSLCYes]]
+[[No |SeyonSLCNo]]
+</center>
+
+
+:: SeyonCharlesBabbage {"position":"550,975","size":"100,100"}
+“Ah, Charles Babbage.”
+
+You then see Seyon spell out “Charles Babbage” on the keyboard and after some clicking, you see the face of Charles Babbage accompanied by a wall of text.
+
+<center>
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Charles_Babbage_-_1860.jpg/800px-Charles_Babbage_-_1860.jpg height="250px" width="250px">
+</center>
+
+“The father of the computer. I think that’s appropriate–he theorized the difference and analytical engine with his student Ada Lovelace.”
+
+With some more clicking, you see a picture of the difference engine.
+
+“A difference engine is an automatic mechanical calculator designed to tabulate polynomial functions. Pretty cool, isn’t it? It’s basically a calculator. It functioned using punched cards, cool, no? Oh how the world has advanced since then.”
+
+You then take a pause to think about whether Charles Babbage would appreciate how computers have evolved. You think yes, since computers have helped keep humanity connected and make mundane tasks, such as calculating, faster.
+
+“I’m a bit hungry. Do you want to hit up the SLC or continue learning about the powers of the internet?”
+
+<center>
+[[SLC |SeyonSLCYes]]
+[[Wikipedia |SeyonWikipedia]]
+</center>
+
+
+:: SeyonSLCNo {"position":"225,1175","size":"100,100"}
+“No? Okay sure, let’s go back to V1 to finally settle our ping pong score.”
+
+On the way back, you notice a few people walking while aggressively tapping something in their hands.
+
+“Those are so-called phones. You can think of them as mini-computers. As for what they were doing, they were likely messaging their friends, which is called texting. Using the internet or cell towers, we’re able to send messages between people hundreds or even thousands of miles away within seconds. This is another way that we’re able to remain connected.”
+
+You agree that it’s cool, but can’t help but notice that the person that just walked by is about to walk into a Canada goose.
+
+…
+
+“We’re here at last! Good luck!”
+
+
+:: SeyonSLCYes {"position":"550,1175","size":"100,100"}
+“Let’s go then!”
+
+<center>
+	<img src=https://images.sidearmdev.com/fit?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2fuwaterloo.sidearmsports.com%2fimages%2f2021%2f9%2f7%2fSLCPAC_Exterior.jpg&height=450&width=800&type=jpeg height="250px" width="250px">
+</center>
+
+After arriving at the SLC, you notice a lot of people are looking at their hands.
+
+“Those things in their hands are called phones. They’re pretty much mini-computers with touchscreen as their inputs instead of a keyboard and mouse.”
+
+You find this interesting and note that it lets individuals remain connected with their friends no matter how far they are from each other. 
+
+“Two please.”
+
+After sitting down with your food, Seyon hands you his phone. It has a website called “The Wikipedia Game” on it.
+
+“This is called the Wikipedia Game. The premise is that you start on some arbitrary wikipedia page and need to get to some other wikipedia page. The catch is that you can only click links on the wikipedia page itself.”
+
+You think this is quite cool. Upon pressing start, you find yourself on the “Jennifer Aniston” page and need to find a way to the “Dominoes” page. After navigating through the wikipedia page for Los Angeles, the US state, the US, and Domino’s pizza, you finally arrive at the site for Dominoes.
+
+After handing the phone back, you are intrigued by the ability to move from one topic to a completely different one by chains of similarities.
+
+“Ok. Now that we’re done eating, let’s go see who’s the king of ping pong.”
+
+
+:: SeyonStart {"position":"425,825","size":"100,100"}
+You are following Seyon through the streets of Waterloo and looking around at the big digital boards, but can’t help but notice that other people seem more interested in something in their hands than their surroundings.
+
+“We’re here!”
+
+You look up and see a big building known as MC.
+<center>
+  <img src=https://uwaterloo.ca/news/sites/ca.news/files/resize/mc-500x337.jpg height="250px" width="250px">
+</center>
+Upon entering, you and Seyon navigate through and enter a room with these type-writer looking devices on a table, in-front of big black screens. After watching Seyon use the type-writer thing, which is apparently called a keyboard, you see the word “Google” appear.
+
+“Who do you want to learn about?”
+<center>
+[[Anna Akhmatova |SeyonAnnaAkhmatova]]
+[[Alan Turing |SeyonAlanTuring ]]
+[[Charles Babbage |SeyonCharlesBabbage]]
+</center>
+
+
+:: SeyonWikipedia {"position":"375,1200","size":"100,100"}
+“Alright, let’s continue. Feel free to control the mouse and keyboard.”
+
+You grab ahold of the keyboard and mouse. First, you return to Charles Babbage’s Wikipedia article and begins clicking until you reach the page for the Jacquard Loom.
+
+“The Jacquard loom was a revolutionary piece of machinery. It used punched cards to effectively program the machine. This was the main idea for Charles Babbage’s inventions, but was also used elsewhere, such as Herman Hollerith’s tabulating machine.”
+
+You find this interesting since you likely never would have learned this without the connectedness of Wikipedia and the internet as a whole.
+
+You then get a bit curious and begin clicking the first link that appears in the Wikipedia article, then clicking the first link in that article, and so on. Eventually, you find yourself at the Wikipedia page for philosophy.
+
+“It’s said that around 97% of Wikipedia pages lead to Philosophy, assuming you keep clicking the first link that appears. Pretty cool.”
+
+You are quite satisfied with this result–the internet is more interconnected than you thought. Even its subnetworks, such as Wikipedia, maintain this completeness-that is, the ability to get from one place to another.
+
+“It’s about lunch time. Do you want to go to the SLC?”
+
+<center>
+[[Yes |SeyonSLCYes]]
+[[No |SeyonSLCNo]]
+</center>
+
+
+:: TrevorAI {"position":"500,50","size":"100,100"}
+Hi $name, it seems like you forgot your memory of all technology on Earth. Well, as your very good friend, I want to help you get some of that memory back. I'll start by talking about the hottest topic of technology nowadays, which is ''Artificial Intelligence'', or AI. AI takes inspiration from the human brain - we're basically trying to emulate human intellignce and thinking. We're not quite there yet, but it's still crazy impressive. It's already being integrated into our daily lives, and you'll only feel it more as AI improves more and more. Since we're by the computers in V1 anyway, I can just show you from here. Which topic sounds the most interesting to you?
+
+Choose to dive into: 
+- [[ChatGPT]] 
+- [[Self-Driving Cars]] 
+- [[AI for Good]] 
+- [[Dangers of AI]] 
+- [[Generative AI]]
+
+
+:: Yes, Kevin’s Fertilizer Shop is reliable {"position":"1425,575","size":"100,100"}
+Uh oh! As appealing as how powerful Kevin’s fertilizer sounds, based on the information and content they provided on their website, they do not appear to be a reliable source of information. 
+A big giveaway is the domain name, which sounds like a fertilizer shop trying to sell their products. Therefore, the information they provide might be very biased towards what their company is trying to sell. 
+Another big giveaway is the accuracy of their information. They mentioned that their fertilizer has been around 2400 years, which sounds like a stretch. Also, it mentions that things like “Ketchup flavored chips” are beneficial for your plant, which should also raise a red flag. 
+
+[[Visit Plants.com instead|Plants.com]]
+
+
+:: You're at home {"position":"1100,200","size":"100,100"}
+<img src="https://i.imgur.com/cfWVP4P.png">
+
+It’s late at night at 11pm. You are lying on your sofa, with chips and popcorn by your side, and you are scrolling through the social media platform Instagram. You scroll through your feed, liking all the cat memes and scrolling past all the other ones. 
+Suddenly, you come across a video of someone sharing a video of their gameplay in the video game Minecraft. Right away, you are stunned by how well they played the game. Their every move is meticulous and calculated, and you have never ever seen someone play the game so well before. The video shows them carrying their team to victory, and holy cow, it is impressive! 
+As a Minecraft player yourself, you dream to become as skilled as them one day. What would you do in this situation? 
+
+[[Compare yourself to them, and become jealous|Compare yourself to them, and become jealous]]
+
+[[Like the video and move on|Like the video and move on]]
+
+
+:: You're at work {"position":"1275,200","size":"100,100"}
+Hooray! You got a job! You are working at a 9-5 office job. You are working for a plant fertilizer company, and your job is to research the factors that affect plant growth so that you can incorporate some compounds that are beneficial to plants into the fertilizer to maximize plant growth. 
+It is your first day at work, and you begin your research. You search up “Factors that affect plant growth” on Google, and there are two websites that show up related to your search. Select which website you will look into below: 
+
+[[Plants.com|Plants.com]]
+
+[[BuyKevinsPlantFertilizerToday.com|BuyKevinsPlantFertilizerToday.com]]
+
+
+:: kat endingopt {"position":"2225,850","size":"100,100"}
+"So did you regain your memories this time?" Katherine asks.
+
+[[Option 1 (sarcastic response)]] | [[Option 2 (normal response)]]
+
+
+:: kat eyebags {"position":"1975,600","size":"100,100"}
+"What's up! How did it go. Did you remember anything?" Katherine pauses for a second, "Wait did you sleep? Your eyebags are out of this world."
+
+You explain how eye opening TikTok was and how you learned so much, even if you didn't get your memories back.
+
+"Aw that's a shame, what do you wanna do today?" She asks.
+
+Do you ask to [[go out with your friends |kat friendmall]] or [[continue the game you woke up to yesterday |kat friendgames]].
+
+
+:: kat first choice {"position":"1975,100","size":"100,100"}
+"Okay so I think there are two quick ways to learn more and hopefully jog your memory," Katherine says as she digs into her pockets
+
+You watch her bring out a black rectangular prism of sorts with a circle on one side. She tells you that she is holding a phone.
+
+"So I think you can either unlock your own phone and just look around TikTok since there are so many scenes there. Or you can get on one of these bad boys," she starts patting the even bigger black box on the table. You woke up in front of that big black box.
+
+Do you choose to explore the [[small black box | kat phone]] or [[big black box | kat computer]]?
+
+<img src="https://securityintelligence.com/wp-content/uploads/2019/04/external_mobile-security-versus-desktop-and-laptop-security-is-there-even-a-difference-anymore.jpg" alt="">
+
+
+:: kat friendgames {"position":"2100,725","size":"100,100"}
+You head back to V1 main lobby, rent out a keyboard and mouse. You decide to play a game called Valorant with your friends. Apparently, you were really good at it before.
+
+You queue in your first game, as you were about to ask about the rules, the muscle memory of your fingers take over as you pick an agent and navigate the map with ease.
+
+"NOOO WE LOST!" Katherine throws her headset off.
+
+Seeing her frustration, Trevor comforts her, "Hey it's fine, let's not end on a loss."
+
+You agree, ending on a loss doesn't sound fun. Plus, every game is only like 30 minutes long.
+
+So you queue again. //Wait let me go to the washroom real quick//. As you get off the chair you hear Katherine turn around, "Are you leaving? We can't pause the game you gotta stay to finish the round first." You quickly apologize and resume the game.
+
+2 hours later, a badge shows up. //Platinum//. You felt a rush of joy as you achieved a higher rank from all the game play.
+
+Almost in a way too similar to last night, the last thing you see is natural light peeking through the windows.
+
+Let's do this again shall we? Time to [[wake up |kat endingopt]]
+<img src="https://media.wired.com/photos/5ea0840cb0490300086261e3/master/pass/Cul-Reveal_ReactorA_VALORANT.jpg">
+
+
+:: kat friendmall {"position":"1975,725","size":"100,100"}
+You decide to go to the mall with your friends to shop around and buy some food. As you walk around, you see a bunch of people walking past with their eyes glued to their phones. At one point, a whole group of teengers walk past but all of them are looking down.
+
+Then, you look at your own friends, a few are chatting but most have a tight grip on their phones. //Maybe they're scared of someone stealing it?// You quickly tap your pocket to make sure you still have your phone as well.
+
+Now you're grabbing lunch and the table goes quiet. Everyone is looking down at their phone.
+
+Do you also [[go on your phone |kat friendphone]] or [[ask them to talk |kat friendtalk]]?
+
+<img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2019_49/3133326/191204-pedestrians-phone-se-427p.jpg">
+
+
+:: kat friendphone {"position":"1975,850","size":"100,100"}
+You turn back to your phone, smile for the Face ID and return to TikTok. At first, you're a little sad about not talking to your friends, but your sadness quickly turns into joy as you watch funny and cute videos... day in and day out.
+
+The End.
+
+
+:: kat friendtalk {"position":"2100,850","size":"100,100"}
+You ask why they're all on their phones instead of talking. 
+
+Your friends brush you aside, "It's fine, yo send me an iMessage game and let's play together."
+
+You don't remember playing iMessage games before but maybe it's a good idea? You explain that you feel bored and distant even though you're literally sitting within arms distance of each other.
+
+"Okay okay my fault. Wanna go check out the album store after?"
+
+You smile and finish your food. Your friend then explains that a lot of people just drown themselves in content but they're glad that you brought it up. They also warn you to be careful as you start interacting with digital media and technology again. You were once addicted too.
+
+
+The End.
+
+
+:: kat sleep {"position":"2100,475","size":"100,100"}
+You try to sleep, but as you stare at the ceiling, you can imagine the vague outline of the app. You feel the urge to open your phone again, //I'm not going to fall asleep at this rate anyways//.
+
+You start counting sheep. The sheep start morphing into videos. You hear all the viral TikTok sounds playing through your head and every 15 seconds the music changes. 
+
+Eventually, somehow, you fall alseep... only to [[wake up |kat eyebags]] again.
+
+
+:: StoryStylesheet [stylesheet]
+img {
+  width: 100%;
+}
